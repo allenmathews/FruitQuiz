@@ -1,16 +1,16 @@
 
 var questions = [
      {
-           prompt: "What color are apples?\n(a) Red/Green\n\ (b) Purple\n(c) Orange",
-           answer: "a"
+           prompt: "Commonly used data types DO NOT include\n(a) Strings\n\ (b) booleans\n(c) alerts",
+           answer: "c"
      },
      {
-          prompt: "What color are Bananas?\n(a) Teal\n\ (b) Magenta\n(c) Yellow",
+          prompt: "The condition in an if / else statement is enclosed within ____.\n(a) Quotes\n\ (b) Curly Brackets\n(c) Paranthesis",
           answer: "c"
      },
      {
-          prompt: "What color are strawberries?\n(a) Yellow\n\ (b) Red\n(c) Blue",
-          answer: "a"
+          prompt: "Arrays in Javascript can be used to store ____.\n(a) Numbers and strings\n\ (b) Booleans\n\ (c) Other arrays\n\ (d) All the above",
+          answer: "d"
      }
 ];
 var score = 0;
